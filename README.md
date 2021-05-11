@@ -2,4 +2,4 @@
 
 Used in teaching Git.
 
-Changed variosu times
+Changed various times
